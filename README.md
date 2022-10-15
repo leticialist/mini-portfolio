@@ -1,7 +1,7 @@
 <h2 align="center"> Projeto Mini Portfólio</h2>
 <p align="center"> Projeto desenvolvido no evento MapaDev Week do @devemdobro. <br>
 Um mini portfólio onde podemos ver informações sobre mim, meu currículo e redes sociais.</p> <br>
-<img align="center" src="https://i.imgur.com/IXar5z4.gif" width="100%"> 
+<img align="center" src="https://i.imgur.com/Dpa3EHy.gif" width="100%"> 
 
 <h2 align="center"> Tecnologias utilizadas</h2>
 <div align="center" style="display: inline_block">
