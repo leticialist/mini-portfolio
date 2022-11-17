@@ -94,6 +94,7 @@ body {
 
 .informacoes-abas .sub-titulo {
     font-size: 22px;
+    font-weight: normal;
     margin-bottom: 25px;
     text-align: center;
 }
@@ -109,8 +110,7 @@ body {
     color: #efb8cc;
 }
 
-
-.redes-sociais {
+.projetos, .redes-sociais {
     display: flex;
     flex-direction: column;
     gap: 25px;
@@ -119,7 +119,7 @@ body {
     overflow-y: auto;
 }
 
-.redes-sociais li a {
+.projetos li a, .redes-sociais li a {
     width: 250px;
     display: block;
     color: #f3f3f3;
@@ -127,6 +127,14 @@ body {
     padding: 10px;
     font-size: 20px;
     transition: opacity 0.3s ease-in-out;
+}
+
+.projetos li a:hover {
+    opacity: 0.8;
+}
+
+.projetos .projeto {
+    background-color: #efb8cc73;
 }
 
 .redes-sociais li a:hover {
